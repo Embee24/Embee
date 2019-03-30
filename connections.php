@@ -4,10 +4,7 @@ define("DB_HOST", "");
 define("DB_USERNAME", "");
 define("DB_PASSWORD", "");
 define("DB_DATABASE", "");
-
-define("BATTUTA_KEY", '');
-$google_api_key_from_cmd = "";
-define("GOOGLE_PLACES_API", $google_api_key_from_cmd);
+define("API", $commit);
 
 
 
